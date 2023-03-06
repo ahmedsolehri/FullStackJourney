@@ -1,0 +1,45 @@
+body {
+    margin: 10%;
+}
+
+.container {
+    background-color: #463d36;
+    border: 1px solid white;
+    height: 400px;
+    width: 600px;
+    margin: 0 auto;
+}
+
+.inside-container {
+    background-color: white;
+    margin: 100px;
+    border-radius: 10px;
+    
+}
+
+.middle-container {
+    padding: 25px;
+
+}
+
+#heading {
+    color: #a6192e;
+    margin: 0;
+}
+
+h6 {
+    color: #463d36;
+    margin: 0;
+    font-size: 25px;
+}
+p {
+    color: #463d36;
+    font-size: large;
+}
+
+button{
+    background-color:  #463d36;
+    padding: 15px;
+    color: white;
+    border: none;
+}
